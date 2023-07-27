@@ -1,3 +1,5 @@
+## My slight modifications to ztime/polska
+
 # FolkRNN parser
 
 Parses all files in a folder and tries to create a FolkRNN friendly data file
